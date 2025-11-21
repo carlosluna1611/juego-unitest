@@ -51,13 +51,6 @@ El repositorio incluye la estructura típica de un proyecto de GameMaker Studio:
 4. Navega a la carpeta del repositorio y selecciona el archivo del proyecto `.yyp`.
 5. Ejecuta el juego con el botón de **Play** dentro del entorno.
 
-## Créditos
-
-**Desarrolladores:**
-
-* Carlos Luna
-* Kevin Montilla
-
 ## Licencia
 
 Este proyecto se distribuye bajo la **Licencia MIT**, lo que permite su uso, modificación y distribución con las atribuciones correspondientes.
