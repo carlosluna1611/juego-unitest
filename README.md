@@ -9,11 +9,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20PC-lightgrey)
 ![Language](https://img.shields.io/badge/Language-GML-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Engine](https://img.shields.io/badge/Engine-GameMaker_Studio_2-brightgreen)
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20PC-lightgrey)
-![Language](https://img.shields.io/badge/Language-GML-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Descripción del Proyecto
 
