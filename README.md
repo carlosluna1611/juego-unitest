@@ -1,14 +1,19 @@
 # juego-unitest
+
 ![Contributors](https://img.shields.io/badge/contributors-Carlos%20Luna%20%26%20Kevin%20Montilla-blue)
 
 <!-- Badges -->
 
+![Engine](https://img.shields.io/badge/Engine-GameMaker_Studio-blue)
+![Project Status](https://img.shields.io/badge/Status-Jugable_%28Beta_completada%29-success)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20PC-lightgrey)
+![Language](https://img.shields.io/badge/Language-GML-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Engine](https://img.shields.io/badge/Engine-GameMaker_Studio_2-brightgreen)
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20PC-lightgrey)
 ![Language](https://img.shields.io/badge/Language-GML-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4)
 
 ## Descripción del Proyecto
 
