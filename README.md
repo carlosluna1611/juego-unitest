@@ -41,7 +41,7 @@ El repositorio incluye la estructura típica de un proyecto de GameMaker Studio:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/usuario/unitest.git
+   git clone https://github.com/carlosluna1611/juego-unitest.git
    ```
 2. Abre **GameMaker Studio**.
 3. Selecciona **Importar Proyecto**.
