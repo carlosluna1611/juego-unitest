@@ -59,7 +59,7 @@ Para sugerencias, mejoras o reportes de errores, no dudes en abrir un *issue* en
 ## Recomendaciones del Juego
 
 * El proyecto se distribuye como una **versión portable**, por lo que no requiere instalación. En caso de presentarse algún inconveniente durante la ejecución, puede comunicarse para recibir asistencia técnica.
-* Se recomienda **interactuar con diversos elementos del entorno**, ya que muchos contienen diálogos y mensajes específicos diseñados para enriquecer la experiencia del jugador. Si se desea localizar la totalidad de interacciones disponibles, puedo proporcionar un listado detallado.
+* Se recomienda **interactuar con diversos elementos del entorno**, ya que muchos contienen diálogos y mensajes específicos diseñados para enriquecer la experiencia del jugador.
 * **Controles del juego:**
 
   * **WASD** → Desplazamiento del personaje.
