@@ -1,0 +1,20 @@
+# Carpetas generadas por GameMaker que NO deben subirse
+*.local
+local/
+output/
+build/
+extensions/__YYPBackup__/
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Configuración específica de tu PC
+*.user
+*.prefs
+*.autosave
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
