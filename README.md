@@ -78,7 +78,7 @@ Necesitas tener instalado GameMaker Studio 2 (o similar).
 
 Abre el archivo UNITEST.yyp para cargar el proyecto completo en el IDE y hacer modificaciones.
 
-<img src="screenshots/Video Project.gif" alt="Gameplay Principal" width="600"/>
+<img src="graficos/Video Project.gif" alt="Gameplay Principal" width="600"/>
 
 ## Estado del Proyecto
 Tipo: Videojuego 2D.
