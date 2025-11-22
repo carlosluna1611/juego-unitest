@@ -89,3 +89,9 @@ Estado: 🟢 Finalizado.
 * El **NPC inicial** cuenta con múltiples líneas de diálogo. Para visualizar todas las variaciones, se recomienda interactuar con él en varias ocasiones consecutivas.
 
 ## Autores
+
+<p style="font-size: 22px; font-family: 'Georgia', serif; line-height: 1.6;">
+  • <strong>Carlos Luna</strong><br>
+  • <strong>Kevin Montilla</strong>
+</p>
+
