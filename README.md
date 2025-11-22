@@ -9,7 +9,7 @@ Videojuego de coleccionables desarrollado en **GameMaker Studio** que transporta
 
 > **Tema:** Controlas a un estudiante en una aventura por el campus universitario. Es un proyecto de desarrollo de juegos con un componente de diseño de niveles basado en la realidad.
 
-<img src="screenshots/animacionAlberto.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlberto2.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlbertoEspaldas.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionManuel.gif" alt="Gameplay Principal" width="150"/>
+<img src="C:\Users\Windows\Documents\Universidad\Trimestre III\VU\Gráficos/animacionAlberto.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlberto2.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlbertoEspaldas.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionManuel.gif" alt="Gameplay Principal" width="150"/>
 
 ## Características del Juego
 
