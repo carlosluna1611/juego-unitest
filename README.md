@@ -71,7 +71,7 @@ Clonar el repositorio:
 
 Bash
 
-git clone [https://github.com/kevinmontilla/juego-unitest.git](https://github.com/kevinmontilla/juego-unitest.git)
+git clone [https://github.com/kevinmontilla/juego-unitest.git](https://github.com/carlosluna1611/juego-unitest.git)
 Abrir en GameMaker:
 
 Necesitas tener instalado GameMaker Studio 2 (o similar).
