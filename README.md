@@ -7,60 +7,89 @@
 ![Language](https://img.shields.io/badge/Language-GML-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Descripción del Proyecto
+# UNITEST - Videojuego de Exploración Universitaria
 
-**Unitest** es un videojuego desarrollado en **GameMaker Studio** que pone al jugador en el rol de un estudiante que explora distintas zonas reales de la universidad. El objetivo principal es desplazarse por los escenarios, recolectar todos los objetos repartidos y completar cada nivel. El juego combina exploración, atención al detalle y una ambientación inspirada en espacios auténticos del campus.
+Videojuego de coleccionables desarrollado en **GameMaker Studio** que transporta al jugador a entornos virtuales inspirados en zonas reales de la universidad. El objetivo principal es la exploración y la recolección de todos los objetos escondidos para completar el desafío.
 
-## Características Principales
+> **Tema:** Controlas a un estudiante en una aventura por el campus universitario. Es un proyecto de desarrollo de juegos con un componente de diseño de niveles basado en la realidad.
 
-* **Escenarios inspirados en zonas reales de la universidad**.
-* **Coleccionables distribuidos estratégicamente** que el jugador debe encontrar para completar cada nivel.
-* **Controles intuitivos** y mecánicas accesibles para cualquier persona.
-* **Arte visual personalizado**, incluyendo sprites, animaciones y elementos interactivos.
-* **Organización clara de recursos dentro de GameMaker Studio** para facilitar la escalabilidad del proyecto.
+<img src="screenshots/animacionAlberto.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlberto2.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionAlbertoEspaldas.gif" alt="Gameplay Principal" width="150"/><img src="screenshots/animacionManuel.gif" alt="Gameplay Principal" width="150"/>
 
-## Cómo Jugar
+## Características del Juego
 
-* **Movimiento:** Utiliza las teclas de dirección o WASD para desplazarte por el mapa.
-* **Interacción:** Acércate a los coleccionables o puntos clave del escenario para obtenerlos automáticamente.
-* **Objetivo:** Encuentra todos los objetos del nivel para avanzar o completar el juego.
-* **Exploración:** Revisa cada área cuidadosamente, ya que algunos elementos pueden estar escondidos.
+* **Mecánica de Colección:** Recolecta todos los objetos clave distribuidos en el mapa.
+* **Diseño de Niveles:** Mapas y escenarios modelados a partir de áreas reales de la universidad, incluyendo algunos objetos con los que se puede interactuar (presiona el botón de interacción para conseguirlos).
+* **Gráficos 2D:** Utiliza sprites y animaciones simples para una experiencia de juego clásica, todo creado desde 0.
+* **Audio:** Implementación de sonidos y música para ambientación (carpeta `sounds`).
+* **Humor interno:** Chistes y referencias a situaciones experimentadas en la universidad.
 
-## Estructura del Proyecto en GameMaker Studio
+<img src="screenshots/1.png" alt="Gameplay Principal" width="320"/><img src="screenshots/22.png" alt="Gameplay Principal" width="300"/>
 
-El repositorio incluye la estructura típica de un proyecto de GameMaker Studio:
+## Controles del juego:
 
-* **Sprites:** Recursos visuales del jugador, coleccionables y ambiente.
-* **Objects:** Entidades con comportamiento, incluyendo el jugador y elementos interactivos.
-* **Rooms:** Escenarios basados en zonas reales de la universidad.
-* **Scripts:** Funciones y lógica del juego para manejar eventos, detección de colisiones y progresión.
-* **Tilesets:** Elementos utilizados para construir los mapas.
+WASD → **Desplazamiento del personaje.**
+E → **Interacción con objetos y personajes.**
+> Se recomienda interactuar con diversos elementos del entorno, ya que muchos contienen diálogos, mensajes específicos diseñados para enriquecer la experiencia del jugador, o directamente entras a algunas zonas.
+
+Rueda del ratón → **Ajuste del nivel de zoom del punto de vista (POV).**
+
+R → **Restablecimiento del POV a su posición predeterminada.**
+
+## Stack Tecnológico
+
+* **Lenguaje Principal:** ![Game Maker Language](https://img.shields.io/badge/GML-100%25-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white) **Game Maker Language (GML)**.
+* **Motor de Desarrollo:** **GameMaker Studio 2** (requerido para abrir y editar el proyecto).
+
+## Estructura del Proyecto
+
+La estructura sigue el formato de un proyecto estándar de GameMaker:
+
+```text
+juego-unitest/
+├── fonts/           # Fuentes para el contador y HUD
+├── objects/         # Scripts y lógicas de los personajes y coleccionables
+├── options/         # Configuraciones de compilación
+├── rooms/           # Archivos de los niveles del juego
+├── scripts/         # Funciones de GameMaker Language (GML)
+├── sounds/          # Música y efectos de sonido
+├── sprites/         # Gráficos y animaciones de personajes y objetos
+├── UNITEST.yyp      # Archivo principal del proyecto GameMaker
+└── README.md        # Documentación
+```
 
 ## Instalación y Ejecución
+Para poder probar este juego, tienes dos opciones:
 
-1. Clona este repositorio:
+### Opción 1: Ejecutar el Binario
+Para ejecutar correctamente el juego, es necesario conservar todos los archivos, **el archivo ejecutable no funcionará si se borran o separan los siguientes archivos:**
+data.win
 
-   ```bash
-   git clone https://github.com/carlosluna1611/juego-unitest.git
-   ```
-2. Abre **GameMaker Studio**.
-3. Selecciona **Importar Proyecto**.
-4. Navega a la carpeta del repositorio y selecciona el archivo del proyecto `.yyp`.
-5. Ejecuta el juego con el botón de **Play** dentro del entorno.
+options.ini
 
-## Licencia
+juego.exe (el ejecutable principal)
 
-Este proyecto se distribuye bajo la **Licencia MIT**, lo que permite su uso, modificación y distribución con las atribuciones correspondientes.
+**Coloca todos estos archivos en la misma carpeta y ejecuta el archivo .exe.**
 
-## Contacto
+### Opción 2: Abrir y Modificar el Proyecto
+Clonar el repositorio:
 
-Para sugerencias, mejoras o reportes de errores, no dudes en abrir un *issue* en este repositorio o contactar a los desarrolladores directamente.
+Bash
 
-## Recomendaciones del Juego
+git clone [https://github.com/kevinmontilla/juego-unitest.git](https://github.com/kevinmontilla/juego-unitest.git)
+Abrir en GameMaker:
 
-* El proyecto se distribuye como una **versión portable**, por lo que no requiere instalación. En caso de presentarse algún inconveniente durante la ejecución, puede comunicarse para recibir asistencia técnica.
-* Se recomienda **interactuar con diversos elementos del entorno**, ya que muchos contienen diálogos y mensajes específicos diseñados para enriquecer la experiencia del jugador.
-* **Controles del juego:**
+Necesitas tener instalado GameMaker Studio 2 (o similar).
+
+Abre el archivo UNITEST.yyp para cargar el proyecto completo en el IDE y hacer modificaciones.
+
+<img src="screenshots/Video Project.gif" alt="Gameplay Principal" width="600"/>
+
+## Estado del Proyecto
+Tipo: Videojuego 2D.
+
+Estado: 🟢 Finalizado.
+
+Ámbito: Proyecto educativo / de demostración.
 
   * **WASD** → Desplazamiento del personaje.
   * **E** → Interacción con objetos y personajes.
