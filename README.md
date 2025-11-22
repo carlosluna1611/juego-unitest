@@ -1,7 +1,4 @@
 # UNITEST - Videojuego de Exploración Universitaria
-<!-- Badges -->
-![Contributors](https://img.shields.io/badge/contributors-Carlos%20Luna%20%26%20Kevin%20Montilla-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Videojuego de coleccionables desarrollado en **GameMaker Studio** que transporta al jugador a entornos virtuales inspirados en zonas reales de la universidad. El objetivo principal es la exploración y la recolección de todos los objetos escondidos para completar el desafío.
 
@@ -90,3 +87,5 @@ Estado: 🟢 Finalizado.
   * **Rueda del ratón** → Ajuste del nivel de zoom del punto de vista (POV).
   * **R** → Restablecimiento del POV a su posición predeterminada.
 * El **NPC inicial** cuenta con múltiples líneas de diálogo. Para visualizar todas las variaciones, se recomienda interactuar con él en varias ocasiones consecutivas.
+
+## Autores
