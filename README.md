@@ -19,7 +19,7 @@ Videojuego de coleccionables desarrollado en **GameMaker Studio** que transporta
 * **Audio:** Implementación de sonidos y música para ambientación (carpeta `sounds`).
 * **Humor interno:** Chistes y referencias a situaciones experimentadas en la universidad.
 
-<img src="graficos/1.png" alt="Gameplay Principal" width="320"/><img src="screenshots/22.png" alt="Gameplay Principal" width="300"/>
+<img src="graficos/1.png" alt="Gameplay Principal" width="320"/><img src="graficos/22.png" alt="Gameplay Principal" width="300"/>
 
 ## Controles del juego:
 
@@ -71,7 +71,7 @@ Clonar el repositorio:
 
 Bash
 
-git clone [https://github.com/kevinmontilla/juego-unitest.git](https://github.com/carlosluna1611/juego-unitest.git)
+git clone [https://github.com/carlosluna1611/juego-unitest.git](https://github.com/carlosluna1611/juego-unitest.git)
 Abrir en GameMaker:
 
 Necesitas tener instalado GameMaker Studio 2 (o similar).
